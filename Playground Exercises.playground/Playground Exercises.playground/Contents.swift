@@ -1,6 +1,5 @@
 import UIKit
 
-
 //Exercise 1
 var distance: UInt
 distance = 40
